@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <boolean.h>
 
 // Define the structure of a tree node
 struct Node {
