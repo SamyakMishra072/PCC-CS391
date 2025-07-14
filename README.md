@@ -35,5 +35,5 @@ The repository includes implementations of:
 📌 Note
 This repository reflects my personal learning and practice. Solutions may vary based on faculty/college-specific versions of the PCC-CS391 syllabus.
 
-👨‍💻 Author
-Samyak Mishra
+## 👨‍💻 Author
+   Samyak Mishra
