@@ -22,8 +22,6 @@ The repository includes implementations of:
 
 > 📌 All codes are written in **C language**, following a modular and clean coding style for better readability.
 
-> Each folder contains relevant `.c` source files along with necessary comments explaining the logic and approach.
-
 ## 🛠️ How to Use
 
 1. Clone the repository:
